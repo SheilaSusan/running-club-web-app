@@ -1,0 +1,6 @@
+{
+  "name": "Apex Stride Running Club",
+  "description": "Discover, organize, and join upcoming group runs, tempo sessions, and trail adventures with the Apex Stride community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
